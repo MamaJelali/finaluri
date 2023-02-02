@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "335789304181",
+    "project_id": "gemplerapp",
+    "storage_bucket": "gemplerapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335789304181:android:16b0cf142201efb37d0b3c",
+        "android_client_info": {
+          "package_name": "com.example.gemplerlapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335789304181-jubu54q8db87sghj1377acvu0jtljpkh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqqzsduyKoadGzjEteoGIeWsprC3Xi00o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335789304181-jubu54q8db87sghj1377acvu0jtljpkh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

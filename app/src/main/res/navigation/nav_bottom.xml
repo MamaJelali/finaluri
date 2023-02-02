@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_bottom"
+    app:startDestination="@id/aboutUs2">
+    <fragment
+        android:id="@+id/aboutUs2"
+        android:name="com.example.gemplerlapp.AboutUs"
+        android:label="fragment_about_us"
+        tools:layout="@layout/fragment_about_us" />
+    <fragment
+        android:id="@+id/services3"
+        android:name="com.example.gemplerlapp.Services"
+        android:label="fragment_services"
+        tools:layout="@layout/fragment_services" />
+    <fragment
+        android:id="@+id/contact2"
+        android:name="com.example.gemplerlapp.Contact"
+        android:label="fragment_contact"
+        tools:layout="@layout/fragment_contact" />
+    <fragment
+        android:id="@+id/account2"
+        android:name="com.example.gemplerlapp.Account"
+        android:label="fragment_account"
+        tools:layout="@layout/fragment_account" />
+</navigation>
